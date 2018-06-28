@@ -7,4 +7,7 @@ set up postgresql
 set up database_cleaner
 set up faker
 set up factory_bot
+  factory_bot_rails
+  factory bot linter
 set up rspec
+  rspec-rails
