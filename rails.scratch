@@ -11,3 +11,8 @@ set up factory_bot
   factory bot linter
 set up rspec
   rspec-rails
+  rails generate rspec:install
+set up graphql
+  rails generate graphql:install
+setup rubocop
+setup guard
