@@ -1,0 +1,10 @@
+set up changelog
+set up rbenv
+set up ruby
+set up bundler
+set up rails
+set up postgresql
+set up database_cleaner
+set up faker
+set up factory_bot
+set up rspec
